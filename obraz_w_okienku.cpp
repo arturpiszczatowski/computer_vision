@@ -2,6 +2,7 @@
 // Created by s20487 on 10.11.2021.
 //
 
+#include "obraz_w_okienku.h"
 #include <opencv2/opencv.hpp>
 #include <opencv2/highgui.hpp>
 #include <iostream>
